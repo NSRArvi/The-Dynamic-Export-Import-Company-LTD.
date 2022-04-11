@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../PHP"
+		},
+		{
+			"path": "../../../Users/shamimibrahim/Downloads/bootstrap_sandbox_final"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PHP"
+	}
+}

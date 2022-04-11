@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Poppins:wght@300&display=swap');
+
+html{
+	scroll-behavior: smooth;
+}
+h2{
+	color: #1D3557;
+	font-family: 'Playfair Display', serif;
+}
+p{
+	font-family: 'Poppins', sans-serif;
+}
+.valueOfPropositionList{
+	list-style: square;
+}
+
+.gallery, .corporate{
+	background-color: #dbddf1;
+}
+.gallery-card{
+	margin-top: 10px;
+	cursor: pointer;
+}
+.gallery-card:hover{
+	transform: rotate(-10deg);
+	transition-delay: 0.2s;
+}
+.nav-img{
+	height: 40px;
+	width: 80px;
+}
+.navhead, .mission{
+	background-color: #1D3557;
+}
+.nav-link, .hamburger{
+	color: #FFFFFF;
+	font-size: 18px;
+}
+.nav-link:hover{
+	color: #FFFFFF;
+	border-bottom: 2px solid #dbddf1;
+}
+
+.misionImg{
+	height: 250px;
+	width: 250px;
+}
+.mission, .vision{
+	border-radius: 8px;
+}
+
+.corporate-img{
+	height: 68px;
+	width: 68px;
+	align-items: center;
+}
+.corporate-img:hover{
+	transform: translateX(10%);
+	cursor: pointer;
+}
+.serviceCard:hover {
+	cursor: pointer;	
+}
+.acoordion{
+	color: black;
+}
+.acoordion:hover{
+	text-decoration: none;
+	color: #1D3557;
+}
+
+.product{
+	height: 300px;
+	width: 200px;
+}
+.btn:hover{
+	background-color: #1D3557;
+}
+.footer{
+	background-color: #1D3557;
+}
+.buyers{
+	border: 2px solid #1D3557;
+	padding: 10px;
+	margin:10px;
+	text-align: center;
+	cursor: pointer;
+	font-family: 'Playfair Display', serif;
+}
+.buyers:hover{
+	background-color: #1D3557;
+	color: #FFFFFF;
+	border-radius: 10px;
+}
+.btn{
+	background-color: #1D3557;
+	color: #FFFFFF;
+}
+.btn:hover{
+	background-color: #dbddf1;
+}
+
+
+
+
+
